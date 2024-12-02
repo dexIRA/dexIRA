@@ -1,3 +1,1 @@
-### dexIRA | www.dexIRA.com
-
-## dexIRA (DEX) Contract
+### dexIRA | www.dexfi.com
