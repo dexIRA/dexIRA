@@ -9,26 +9,13 @@
   www.DexFi.com
 </div>
 
-
-
-
 <p align="center">
-  <a href="https://github.com/HaxeFoundation/haxe/actions"><img src="https://github.com/HaxeFoundation/haxe/workflows/CI/badge.svg" alt="GitHub Build Status"></a>
-  <a href="https://saucelabs.com/u/haxe"><img src="https://saucelabs.com/buildstatus/haxe" alt="SauceLabs Test Status"></a>
-  <a href="https://gitter.im/HaxeFoundation/haxe?utm_source=badge&amp;utm_medium=badge&amp;utm_campaign=pr-badge"><img src="https://badges.gitter.im/Join%20Chat.svg" alt="Gitter"></a>
-  <a href="https://discordapp.com/invite/0uEuWH3spjck73Lo"><img src="https://img.shields.io/discord/162395145352904705.svg?logo=discord" alt="Discord"></a>
+  <a href="https://docs.dexfi.com/"><img src="https://img.shields.io/badge/Docs-20B2AA?style=for-the-badge&amp;color=1e7df0" alt="Docs" /></a> 
+  <a href="https://discord.gg/dexfinance"><img src="https://img.shields.io/badge/Discord-20B2AA?style=for-the-badge&amp;color=5865F2" alt="Discord" /></a> 
+  <a href="https://t.me/dexfinance"><img src="https://img.shields.io/badge/Telegram-20B2AA?style=for-the-badge&amp;color=27A7E7" alt="Telegram" /></a> 
+  <a href="https://www.youtube.com/@DexFinance"><img src="https://img.shields.io/badge/YouTube-20B2AA?style=for-the-badge&amp;color=c4302b" alt="YouTube" /></a> 
+  <a href="https://x.com/DexFinance"><img src="https://img.shields.io/badge/X%20(Twitter)-20B2AA?style=for-the-badge&amp;color=050301" alt="X" /></a>
 </p>
-
-
-<p align="center">
-  <a href="https://github.com/HaxeFoundation/haxe/actions"><img src="https://github.com/HaxeFoundation/haxe/workflows/CI/badge.svg" alt="GitHub Build Status"></a>
-  <a href="https://saucelabs.com/u/haxe"><img src="https://saucelabs.com/buildstatus/haxe" alt="SauceLabs Test Status"></a>
-  <a href="https://gitter.im/HaxeFoundation/haxe?utm_source=badge&amp;utm_medium=badge&amp;utm_campaign=pr-badge"><img src="https://badges.gitter.im/Join%20Chat.svg" alt="Gitter"></a>
-  <a href="https://discord.gg/dexfinance" target="_blank"><img src="https://img.shields.io/discord/864596451991748618.svg?logo=discord" alt="Discord"></a>
-</p>
-
-<img src="https://img.shields.io/badge/Discord-20B2AA?style=for-the-badge" alt="Discord" />
-
 
 
 #### DexFi offers an ecosystem of financial products designed to empower users and simplify the DeFi experience. 
