@@ -79,10 +79,6 @@ DexFi offers absolute flexibility for all of your investment needs. Mix and matc
 
 ## DeFi’s most sophisticated yield aggregator
 
-<div id="header" align="center">
-  <img src="https://dexfi.com/public/de30b29b6e6a94a1d2e8.gif" alt="dexFi" />
-</div>
-
 <div id="aggregator" align="center">
   Empowering users by simplifying the advanced trading strategies employed by experienced investors.
 </div>
