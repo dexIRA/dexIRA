@@ -30,25 +30,28 @@ Invest like a pro with advanced strategies employed by experienced investors. Th
 
 #### Auto-balancing investment strategies powered by AI
 
-##### Find and compare ALL the best farms in DeFi – ALL in one place.
+Find and compare ALL the best farms in DeFi – ALL in one place.
 
 ### Search Farms
 ##### Search the largest directory of yield farms from all of DeFi and select farms you’d like to be managed within your vault.
-![chart](https://dexfi.com/public/ad74bae187e9e7abfd33.gif)
 
-[Find Farms >](https://dexfi.com/vaults/?find_farm=true)
+- [Find Farms](https://dexfi.com/vaults/?find_farm=true)
+
+<img src="https://dexfi.com/public/4ddb073058f56b474b3f.gif" width="250" />
 
 ### Create a Vault
 ##### Set the allocation of each asset and select the token and amount you’d like to receive as profit. Or browse similar vaults to enter.
-![chart](https://dexfi.com/public/975c596d853edba60934.gif)
 
-[Get Started >](https://dexfi.com/create-vault)
+- [Get Started](https://dexfi.com/create-vault)
+
+<img src="https://dexfi.com/public/975c596d853edba60934.gif" width="250" />
 
 ### Track Investment
 ##### Deposit funds and monitor performance metrics while dexVAULTS handles all of the auto-balancing & profit taking for you!
-![chart](https://dexfi.com/public/4ddb073058f56b474b3f.gif)
 
-[View Popular Vaults >](https://dexfi.com/vaults)
+- [View Popular Vaults](https://dexfi.com/vaults)
+
+<img src="https://dexfi.com/public/4ddb073058f56b474b3f.gif" width="250" />
 
 --------------------
 
@@ -67,8 +70,6 @@ Invest like a pro with advanced strategies employed by experienced investors. Th
 Interested in concentrated liquidity but not sure how to set up your ranges? Simply select the AiLM option when configuring your vault and let our custom AI sift through thousands of data points to configure the optimal range for the specific assets within your vault.
 
 Invest with confidence knowing that our AI recalibrates every harvest and automatically adjusts itself if it finds a more profitable range.
-
-![chart](https://dexfi.com/public/de30b29b6e6a94a1d2e8.gif)
 
 ### Want more flexibility?
 
